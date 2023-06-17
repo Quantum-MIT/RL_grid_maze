@@ -1,4 +1,9 @@
 # The Grid World environment
+I created this project as a part of my entrance test for
+SWARM robotics, IITKgp. Requirement is reaching the
+"end block" of the grid starting from the "start block"
+avoiding the obstacles and wind effect through the
+block using basic RL learning approach.
 
 The Grid world as described in the Task is shown below:
 
